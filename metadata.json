@@ -1,0 +1,6 @@
+{
+  "name": "CouponCheck Pro",
+  "description": "Vérification sécurisée et professionnelle de coupons et cartes cadeaux. Service de support en ligne disponible 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
